@@ -1,0 +1,7 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "ctrl+d ctrl+c",
+        "command": "workbench.debug.panel.action.clearReplAction"
+    }
+]

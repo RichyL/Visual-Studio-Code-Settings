@@ -1,0 +1,39 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "background.customImages":[
+        "file:///C:/Users/richy/AppData/Roaming/Code/User/spidey2c.png"
+    ],
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            200
+        ],
+        "editor.selectionHighlight": false,
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off",
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true,
+        "editor.detectIndentation": false,
+        "editor.suggest.insertMode": "replace",
+        "editor.defaultFormatter": "Dart-Code.dart-code",
+        "editor.inlayHints.enabled": "offUnlessPressed",
+    },
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "chat.commandCenter.enabled": false,
+    "editor.minimap.enabled": true,
+    "dart.openDevTools": "flutter",
+    "workbench.colorTheme": "poimandres-storm",
+    "editor.fontFamily": "Monofur Nerd Font",
+    "editor.fontSize": 20,
+    "explorer.confirmDragAndDrop": false,
+    "files.autoSave": "afterDelay",
+    "dart.lineLength": 300,
+    "dart.enableSdkFormatter": false,
+    "workbench.sideBar.location": "right",
+    "workbench.activityBar.location": "top",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "expand"
+}
