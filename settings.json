@@ -35,5 +35,11 @@
     "workbench.sideBar.location": "right",
     "workbench.activityBar.location": "top",
     "editor.cursorSmoothCaretAnimation": "on",
-    "editor.cursorBlinking": "expand"
+    "editor.cursorBlinking": "expand",
+    "workbench.colorCustomizations": {
+        "editorLineNumber.activeForeground": "#FF0000",
+        "tab.activeBackground" : "#FF0000",
+        "tab.activeForeground" : "#FFFFFF"
+
+    }
 }
